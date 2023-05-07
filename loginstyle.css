@@ -1,0 +1,77 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 100hv;
+    padding: 150px;
+    background-color: rgb(255, 219, 242);
+}
+#page{
+    border-style: solid;
+    padding:20px;
+    border-radius: 15px;
+    border-width: 1px;
+    border-color: antiquewhite;
+    background-color:white;
+}
+h2{   
+    text-align: center;
+}
+span{
+    text-align: left;
+}
+input{
+    width: 255px;
+    padding: 3px;
+    margin: 5px 0px 20px 0px;
+    text-align: center;
+    border-width: 0px 0px 1px 0px;
+    text-align: left;
+    font-size: 10px;
+    outline: none;
+}
+#forget{
+    text-align: left;
+    padding-bottom: 10px;
+    font-size: small;
+    color: black;
+}
+#gfg{
+    text-decoration: none;
+    font-size: smaller;
+}
+#button{
+    display: flex;
+    justify-content: center;
+}
+button{
+    width: 255px;
+    height: 35px;
+    border-radius: 50px;
+    border-color: white;
+    color:antiquewhite;
+    background-color: rgba(27, 80, 179, 0.971);
+}
+img{
+    width: 60px;
+    height: 60px;
+}
+ul{
+    display: flex;
+    align-self:center 
+}
+#other{
+    text-align:left;
+}
+#second{
+    text-align: center;
+    padding-bottom: 25px;
+}
+#account{
+    text-align: center;
+    padding-top: 10px;
+}
+#way{
+    text-align: center;
+    padding: 20px;
+    font-size: 13px;
+}
